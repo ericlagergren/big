@@ -1,0 +1,15 @@
+[package]
+
+name="big"
+version="0.0.1"
+authors=["Eric Lagergren"]
+license="MIT"
+homepage = "https://github.com/EricLagergren/big"
+repository = "https://github.com/EricLagergren/big"
+keywords = ["mathematics", "numerics"]
+description = """
+An experimental big decimal library
+"""
+
+[dependencies]
+num = "0.1"
